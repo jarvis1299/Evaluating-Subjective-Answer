@@ -1,0 +1,8 @@
+Zeroth law of thermodynamics  is one of the four laws of thermodynamics . 
+Interestingly, the zeroth law of thermodynamics was actually developed much later than the original three laws . 
+However, there was some confusion regarding the nomenclature, whether it should be named the fourth law or some other name . 
+The complication arose because the new law gave a much clearer definition of the temperature and basically replaced what the other three laws had to state . 
+Fowler finally came up with the name to end this conflict . 
+The zeroth law of thermodynamics frames an idea of temperature as an indicator of thermal equilibrium . 
+The law is important for the mathematical formulation of thermodynamics or more precisely for stating the mathematical definition of temperature . 
+This law is mostly used to compare temperatures of different objects .

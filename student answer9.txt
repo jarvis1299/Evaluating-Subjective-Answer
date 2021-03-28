@@ -1,0 +1,5 @@
+Hypothesis testing is a statistical procedure in which an analyst verifies a hypothesis about a population parameter. 
+The analyst's approach is determined by the quality of the data and the purpose of the study. 
+The use of sample data to determine the plausibility of a hypothesis is known as hypothesis testing. 
+Such information could come from a broader population or a data-gathering method. 
+An analyst performs hypothesis testing on a statistical sample with the aim of proving the null hypothesis plausibility.

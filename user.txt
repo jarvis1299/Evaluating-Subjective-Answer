@@ -1,0 +1,78 @@
+
+Question 1
+Marks obtained for length = 6/10 
+Number of Grammatical error = [Match({'ruleId': 'SOME_OF_THE', 'message': 'If the text is a generality, ‘of the’ is not necessary.', 'replacements': ['some'], 'offsetInContext': 43, 'context': '...rification, decay, and putrefaction are some of the processes involved .  Both organic and ...', 'offset': 250, 'errorLength': 11, 'category': 'REDUNDANCY', 'ruleIssueType': 'style', 'sentence': 'Nitrogen fixation, nitrification, denitrification, decay, and putrefaction are some of the processes involved .'}), Match({'ruleId': 'COMMA_PARENTHESIS_WHITESPACE', 'message': 'Don’t put a space before the full stop.', 'replacements': ['.'], 'offsetInContext': 43, 'context': '...ction are some of the processes involved .  Both organic and inorganic sources of ...', 'offset': 280, 'errorLength': 2, 'category': 'TYPOGRAPHY', 'ruleIssueType': 'whitespace', 'sentence': 'Nitrogen fixation, nitrification, denitrification, decay, and putrefaction are some of the processes involved .'}), Match({'ruleId': 'POSSESSIVE_APOSTROPHE', 'message': 'An apostrophe may be missing.', 'replacements': ["organisms'", "organism's"], 'offsetInContext': 43, 'context': '...ed down the food chain by other  living organisms consumption. \t ', 'offset': 439, 'errorLength': 9, 'category': 'TYPOS', 'ruleIssueType': 'typographical', 'sentence': 'Organic nitrogen is found in living organisms and is passed down the food chain by other \nliving organisms consumption.'})]
+Marks obtained after parsing = 9/10 
+
+#####Faculty Answer Keywords : 
+organic nitrogen
+inert nitrogen
+nitrogen fixation
+marine nitrogen
+nitrogen gas
+living organism
+biogeochemical process
+atmosphere
+food chain
+symbiotic bacteria
+complicated biogeochemical
+inorganic
+denitrification
+decay
+nitrification
+
+Number of Keywords Match = 8/15 
+Marks obtained for keyword match = 18/30 
+Marks obtained for this Question = 1.3/2 
+
+Question 1
+Marks obtained for length = 10/10 
+Number of Grammatical error = 0
+Marks obtained after parsing = 10/10 
+
+#####Faculty Answer Keywords : 
+organic nitrogen
+inert nitrogen
+nitrogen fixation
+marine nitrogen
+nitrogen gas
+living organism
+biogeochemical process
+atmosphere
+food chain
+symbiotic bacteria
+complicated biogeochemical
+inorganic
+denitrification
+decay
+nitrification
+
+Number of Keywords Match = 0/15 
+Marks obtained for keyword match = 0/30 
+Marks obtained for this Question = 0.8/2 
+
+Question 1
+Marks obtained for length = 10/10 
+Number of Grammatical error = 0
+Marks obtained after parsing = 10/10 
+
+#####Faculty Answer Keywords : 
+waterfall model
+first process model
+software development model
+sequential design process
+next phase
+system design
+flowing steadily downwards
+uncertain requirement
+project
+right path
+linear-sequential life
+deployment
+testing
+integration
+implementation
+
+Number of Keywords Match = 11/15 
+Marks obtained for keyword match = 24/30 
+Marks obtained for this Question = 1.8/2 

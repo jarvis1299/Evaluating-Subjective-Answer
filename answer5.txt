@@ -1,0 +1,7 @@
+To manage large multimedia data objects efficiently, these data objects need to be compressed to reduce the file size for storage of these objects. 
+Data compression is the process of encoding information using fewer bits than an unencoded representation would use, through use of specific encoding schemes. 
+Compression tries to eliminate redundancies in the pattern of data . 
+Once redundancies are removed, the data objects requires less disk memory space for storage & also less time for transmission .​
+There are two main types of compression: lossy and lossless . 
+Lossy compression removes some of a files original data in order to reduce the file size . This might mean reducing the numbers of colours in an image or reducing the number of samples in a sound file . This can result in a small loss of quality of an image or sound file . 
+Lossless compression doesnt reduce the quality of the file at all . No data is lost, so lossless compression allows a file to be recreated exactly as it was when originally created .

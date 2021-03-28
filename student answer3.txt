@@ -1,0 +1,6 @@
+Random forest is a supervised learning algorithm. 
+It creates a forest out of an ensemble of decision trees, which are normally trained using the bagging process. 
+The bagging method's basic premise is that combining different learning models improves the overall outcome. 
+Random forest has the benefit of being able to solve classification and regression problems, which make up the majority of current machine learning systems. 
+While increasing the trees, the random forest adds more additional randomness to the model. 
+When splitting a node, it looks for the best function among a random subset of features rather than the most appropriate feature.

@@ -1,0 +1,7 @@
+Electromagnetism is the development of a magnetic field by passing current through a conductor.
+Magnetic lines of force are produced when a conductor is electrically charged.
+If current (positive charges move in a wire), for example, induces a magnetic field along the wire, the position of magnetic lines and force can be
+calculated using the Right-hand Rule. For a more comprehensive description, see the picture.
+The electromagnetic force is a form of physical interaction that happens when electrically charged particles interact with each other.
+It is a combination of both magnetic and electrical forces that work between charged particles.
+The electromagnetic force can be both attractive or repulsive.

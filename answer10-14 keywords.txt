@@ -1,0 +1,5 @@
+Electromagnetism is a process where a magnetic field is created by introducing the current in the conductor .
+When a conductor is electrically charged it generates magnetic lines of force of conductor . 
+For example, if current i.e., positive charges move in a wire, it produces the magnetic field along the wire, and the direction of magnetic lines and force can be determined using Right-hand Rule . 
+The electromagnetic force is a type of physical interaction that occurs between electrically charged particles . 
+It acts between charged particles and is the combination of all magnetic and electrical forces. The electromagnetic force can be attractive or repulsive .

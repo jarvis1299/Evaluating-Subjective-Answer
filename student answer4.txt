@@ -1,0 +1,6 @@
+JPEG is a standardized image compression mechanism . 
+JPEG stands for Joint Photographic Experts Group, the original name of the committee that wrote the standard . 
+JPEG compresses either full-color or grayscale images, and works best with photographs and artwork . 
+For geometric line drawings, lettering, cartoons, computer screenshots, and other images with flat color and sharp borders, the PNG and GIF image formats are usually preferable . 
+JPEG uses a lossy compression method, meaning that the decompressed image isn't quite the same as the original . 
+This method fools the eye by using the fact that people perceive small changes in color less accurately than small changes in brightness . 

@@ -1,0 +1,5 @@
+1) What is the waterfall model and name the phases in it ? [2 Marks]
+2) How Datawarehouse works ?[2 mark]
+3) Explain Random Forest Algorithm in short ?[2 Marks]
+4) What is the JPEG graphics file format ?[2 marks]
+5) What is Compression and what are  the types of compression ? [2 Marks]

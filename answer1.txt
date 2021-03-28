@@ -1,0 +1,7 @@
+The Waterfall Model was the first Process Model to be introduced . 
+It is also referred to as a linear-sequential life cycle model .  
+It is very simple to understand and use . 
+In a waterfall model, each phase must be completed fully before the next phase can begin . 
+This type of software development model is basically used for the project which is small and there are no uncertain requirements . 
+At the end of each phase, a review takes place to determine if the project is on the right path and whether or not to continue or discard the project . 
+The waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of Requirements, System Design, Implementation, Integration and Testing, Deployment of System, Maintenance.
